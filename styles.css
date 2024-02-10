@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#converter {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+#celsius-label {
+    font-size: 18px;
+}
+
+#celsius-slider {
+    width: 100%;
+}
+
+#fahrenheit-label {
+    font-size: 18px;
+}
+
+#fahrenheit-result {
+    font-size: 24px;
+    font-weight: bold;
+}
